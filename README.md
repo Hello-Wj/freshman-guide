@@ -1,2 +1,1 @@
-# freshman-guide
-A collaborative freshman guide created by club members in training sessions.
+这是由 **AI 探索者联盟社团成员** 协作完成的一份《新生指南》
